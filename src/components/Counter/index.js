@@ -12,6 +12,7 @@ export default function Counter() {
 
     return (
         <Container>
+            <h2>Counter</h2>
             <p>Time you spent here: {seconds}</p>
         </Container>
     )

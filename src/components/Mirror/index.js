@@ -8,6 +8,7 @@ export default function Mirror() {
 
     return (
         <Container>
+            <h2>Mirror</h2>
             <p>Time you spent here: {seconds}</p>
         </Container>
     )
