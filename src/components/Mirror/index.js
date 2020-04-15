@@ -9,7 +9,7 @@ export default function Mirror() {
     return (
         <Container>
             <h2>Mirror</h2>
-            <p>Time you spent here: {seconds}</p>
+            <p>The same time as counter: {seconds}</p>
         </Container>
     )
 }
